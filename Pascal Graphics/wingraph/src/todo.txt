@@ -1,0 +1,8 @@
+TO DO (version 1.1):
+
+* implementation of WindowsXP extensions (AlphaBlend,SetDCPenColor,SetDCBrushColor,ExtCreatePen,GetConsoleWindow)
+
+
+DONE: GetMaxColor bug in NoPalette drivers + docs
+DONE: correction in docs (SetLineStyle routine + code recipes) regarding line styles limitation for thick lines
+DONE: FillRect routine dimension increased by 1 pixel
